@@ -1,0 +1,13 @@
+.login__Container{
+    background-color: #056162;
+    padding: 100px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 1px 3px rgba(0, 0,0, 0.12),0 1px;
+}
+
+.login__Container>button{
+    margin-top: 20px;
+    background-color: #0a8d48;
+    color: white;
+}
