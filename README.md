@@ -1,2 +1,2 @@
 # react-whatsapp-clone
-hosting:https://github.com/python1951/react-whatsapp-clone.git
+hosting:https://whastapp-clone-dd63e.web.app
